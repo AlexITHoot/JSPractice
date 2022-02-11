@@ -70,3 +70,7 @@ console.log(balance);
 const maxNum = Math.max(...movements);
 
 const minNum = Math.min(...movements);
+let str = 'asd fgh zxc';
+console.log(minNum);
+console.log(maxNum);
+console.log(...movements, movements, { ...str.split(' ') });
